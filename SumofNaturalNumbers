@@ -1,0 +1,12 @@
+//java program to find the sum of the first n natural numbers
+//25-08-23//J
+//SumofNaturalNumbers.java
+public class SumofNaturalNumbers{
+    public static void main(String args[]) {
+      int x=10;
+      int y=25;
+      int z=x+y;
+
+      System.out.println("Sum of x+y = " + z);
+    }
+}
